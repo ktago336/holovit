@@ -1,0 +1,192 @@
+
+@media only screen and (max-width:1200px) {
+header .menu_header li { padding: 10px 4px; }
+}
+@media only screen and (max-width:1100px) {
+
+.right_p0 {
+	width: 100%;
+}
+.secondary_links {
+	width: 100%;
+}
+.secondary_links a {
+	font-size: 13px;
+	padding: 0px 2px;
+}
+.input-group-text {
+	padding: 5px 10px;
+}
+.restaurants-search .form-control {
+	padding: 5px 10px 5px 35px;
+	font-size: 12px;
+}
+.banner-text h1 {
+	font-size: 30px;
+}
+.banner-text h2 {
+	font-size: 23px;
+	padding: 3px 0;
+	line-height: 34px;
+}
+}
+@media only screen and (max-width:992px) {
+.menu_header { display: inline-block; width: 100%; position: absolute; top: 0; right: 0; }
+.menu_header .col-lg-12, .menu_header .row, .menu_header .container { padding: 0; margin: 0; width: 100%; max-width: 100%; }
+.menu_header .navbar-collapse { float: right; left: 0; margin: 0; position: absolute; width: 100%; background: #fff; top: 40px; border-top: 1px #ddd solid; z-index: 99 }
+header .menu_header li { padding: 2px 14px; margin-right: 0; }
+.menu_header .navbar-toggler { }
+.app-dwn { padding-left: 30px; }
+.category-fild ul li { width: calc(100%/4); padding: 10px 0; }
+.admin_desbord .table-responsive table { min-width: 800px; }
+.desktop-show {
+	display: none;
+}
+header .menu_header li {
+	padding: 2px 14px;
+	margin-right: 0;
+}
+.menu_header .navbar-nav .nav-link {
+	width: 100%;
+}
+.menu_header .navbar-nav .nav-link i {
+	display: none;
+}
+.city-selector {
+	display: inline-block;
+	margin-left: 4px;
+}
+.header__primary .navbar-brand {
+	padding-top: 14px;
+	margin-right: 0;
+}
+.banner-slider { height: 300px; }
+.banner-slider .carousel { height: 100%; }
+.carousel-inner .carousel-item, .carousel-inner { height: 100%; }
+.carousel-inner img { height: 100%; object-fit: cover; }
+.banner-text h1 {
+	color: #fff;
+	font-size: 29px;
+}
+.banner-text h2 {
+	font-size: 21px;
+	padding: 8px 0;
+	line-height: 35px;
+}
+.banner-text {
+	padding: 60px 100px;
+}
+.header__primary {
+	padding: 5px 0 10px;
+}
+header .menu_header .mobile_sh {
+	display: inline-block;
+}
+.restaurants-search .form-control {
+	font-size: 13px;
+}
+}
+
+@media only screen and (max-width:767px) {
+.menu_header { display: inline-block; width: 100%; position: absolute; top: 0; right: 0; }
+.menu_header .col-lg-12, .menu_header .row, .menu_header .container { padding: 0; margin: 0 }
+.menu_header .navbar-collapse { float: right; left: 0; margin: 0; position: absolute; width: 100%; background: #fff; top: 80px; border-top: 1px #ddd solid; z-index: 99 }
+header .menu_header li { padding: 2px 14px; margin-right: 0; }
+header .menu_header.fixed-me ul.navbar-nav.mr-auto { margin-left: 0px; }
+.menu_header.fixed-me { padding: 8px 20px !important; }
+.menu_header.fixed-me .navbar-toggler { top: 11px; }
+.menu_header .navbar-toggler { top: 10px; }
+.ftdrop1, .ftdrop2 { display: block; }
+.hrlp { display: none; }
+.footer-bottom__categories .col-md-3 { padding-bottom: 15px; }
+.copyrights { text-align: center; }
+.menu_header.fixed-me .fix_logo { display: block; padding-top: 5px; }
+.menu_header .navbar { position: initial; }
+.menu_header .col-lg-12 { position: initial; }
+.menu_header.fixed-me .navbar-collapse { top: 56px; }
+.ftdrop2::after, .ftdrop1::after { color: #fff; content: "+"; font-size: 30px; font-weight: normal; position: absolute; right: 10px; top: -4px; cursor: pointer }
+.ftopen1::after, .ftopen2::after { content: "_"; top: -19px; }
+.ftblock1, .ftblock2 { padding: 0 0px; display: none }
+.ftdrop2, .ftdrop1 { display: inline-block; width: 100%; cursor: pointer }
+header .menu_header .mobile_sh { display: block }
+.desktop-show { display: none }
+.header__primary .selest-around select.form-control { height: 40px; }
+.selest-around { width: 118px; }
+.selest-around span::after { padding: 2px 14px; }
+.header__primary .navbar-brand { padding-top: 12px; width: 110px;}
+.selest-around { margin-top: 8px; }
+.header__primary { padding: 10px 0 20px; }
+.app-dwn { border-left: none; padding-left: 0; }
+.category-fild ul li { width: calc(100%/2); padding: 10px 0; }
+.header__primary .selest-around select.form-control { font-size: 11px; }
+.profile-section .tab-content { padding: 50px 15px; }
+.gender-identity-buttons .button { margin-bottom: 25px; }
+.locations { display: block; }
+.locations .input-add { display: block; }
+.login-part { padding: 10px 15px; }
+.forgot { float: left; padding-right: 0; padding-left: 20px; }
+.sin-txt a { font-size: 15px; color: #ef534e; }
+#recaptchaQ { transform: scale(0.8); -webkit-transform: scale(1) !important; transform-origin: 0 0; -webkit-transform-origin: 0 0; }
+.new_categoriesarea_new { width: 100%; top: 0px; }
+.level-one-top { width: 100%; position: inherit; height: auto; }
+a.category_local { font-size: 17px !important; color: #000 !important; margin-top: -10px; }
+.level-one { width: 100%; height: auto; }
+.categories_navarea { width: 100%; }
+.admin .border_p .col-md-6 { width: 50%; }
+section.admin .border_p .text { font-size: 1.4rem; }
+.admin .icon { font-size: 1.4rem; }
+.admin_desbord .table-responsive table { min-width: 800px; }
+.admin .dropdown-list { width: 344px; transform: translate3d(-233px, 40px, 0px) !important; overflow-x: hidden; left: -4px !important; top: 8px !important; }
+.admin .dropdown-list.p4 { width: 347px; left: -47px !important; top: 8px !important; }
+section.admin_desbord { padding: 0px; }
+header .menu_header.fixed-me li { padding: 7px 14px; }
+.category .question_button_sec { margin-bottom: 15px; }
+.category .nav-tabs li { margin-bottom: 10px; width: 100%; }
+.category .card-main1 { margin-top: 0px; }
+.table_responsive .table_dcf { width: 800px !important; }
+.table_responsive { overflow: auto; }
+.listing_deal .list_sel { margin-top: 10px; }
+button#submit_action { margin-top: 10px; }
+.add_deal .form-group { width: 100%; display: inline-block; }
+.add_deal .control-label { margin-bottom: 10px; }
+section.oder_details ul li a { font-size: 12px; color: #75787b; }
+section.oder_details .home_myaccount { margin-bottom: 30px; padding: 0px 14px; }
+section.oder_details ul li i { padding-right: 0px; }
+.line_box { display: flex; margin-bottom: 40px; margin-top: 20px; }
+section.oder_details .address p { width: 100%; }
+.banner-slider { height: 300px; }
+.banner-slider .carousel { height: 100%; }
+.carousel-inner .carousel-item, .carousel-inner { height: 100%; }
+.carousel-inner img { height: 100%; object-fit: cover; }
+.banner-text h1 { font-size: 26px; }
+.banner-text h2 { font-size: 19px; line-height: 27px; }
+.banner-text { padding-left: 40px; }
+#restaurant-deals-site .owl-nav .owl-prev, #spa-deals-site .owl-nav .owl-prev, #salon-deals-site .owl-nav .owl-prev, #offer-site .owl-nav .owl-prev {left: 0;}
+#restaurant-deals-site .owl-nav .owl-next, #spa-deals-site .owl-nav .owl-next, #salon-deals-site .owl-nav .owl-next, #offer-site .owl-nav .owl-next {right: 0;}
+.menu_header .navbar-nav .nav-link {
+	width: 100%;
+}
+.menu_header .navbar-nav .nav-link i {
+	display: none;
+}
+section.payment .bornb {
+	width: 100%;
+}
+}
+
+@media only screen and (max-width:479px) {
+.tab_groupn .nav-item { padding: 20px 0px; text-align: center; display: block; width: 100%; }
+.locations .input-add .location-input { min-width: 221px; width: 333px; margin-bottom: 10px; margin-top: 13px; }
+.locations .input-add .button-container { margin-bottom: 10px; }
+.birthdate-input-container { margin-bottom: 10px; }
+}
+
+@media only screen and (max-width:360px) {
+.admin .dropdown-list.p4 { width: 330px; left: -31px !important; top: 8px !important; }
+.admin .dropdown-list { width: 330px; left: 11px !important; top: 8px !important; }
+}
+
+@media only screen and (max-width:320px) {
+.admin .dropdown-list.p4 { width: 291px; left: 9px !important; top: 8px !important; }
+.admin .dropdown-list { width: 291px; left: 49px !important; top: 8px !important; }
+}
